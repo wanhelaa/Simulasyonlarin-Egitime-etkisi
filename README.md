@@ -1,0 +1,1 @@
+# Simulasyonlarin-Egitime-etkisi
