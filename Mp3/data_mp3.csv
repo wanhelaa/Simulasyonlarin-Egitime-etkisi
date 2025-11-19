@@ -1,0 +1,11 @@
+Makale_ID,Yayın_Yılı,Çalışma_Alanı,Simulasyon_Türü,Bağımlı_Değişken,Etki_Büyüklüğü_(d),Nitel_Bulgu
+1,2024,Tıp Eğitimi,VR Simülasyonu,Beceri Gelişimi,0.75,Operasyonel hataları azaltıyor.
+2,2022,Fen Bilimleri,Sanal Lab. (PhET),Kavramsal Anlama,0.51,Soyut kavramları somutlaştırıyor.
+3,2025,Mühendislik,Dijital İkiz,Problem Çözme,0.68,Kompleks sistem analizini geliştiriyor.
+4,2024,Kurumsal Eğitim,Ciddi Oyunlar,İş Performansı,0.4,Eğlenceli öğrenmeyi teşvik ediyor.
+5,2020,Tıp Eğitimi,Fiziksel Simülatör,Karar Verme,0.82,Yüksek stresli ortamlara hazırlık sağlıyor.
+6,2023,Mimarlık,AR Uygulaması,Uzamsal Yetenek,0.55,Tasarım hatalarını anında düzeltmeyi sağlıyor.
+7,2021,Eğitim Teknolojileri,Oyunlaştırma,Motivasyon/Katılım,0.91,Öğrencinin ders içi ilgisini ve sürekliliğini önemli ölçüde artırıyor.
+8,2022,Nükleer Enerji Müh.,Tam Ölçekli Simülatör,Acil Durum Yönetimi,1.05,Kriz anı tepki süresini ve doğru karar verme oranını iyileştiriyor.
+9,2023,Pilotaj/Havacılık,Uçuş Simülatörü,Beceri Kalıcılığı (Transfer),0.62,Eğitimden 6 ay sonra bile beceri kaybı geleneksel eğitime göre daha az.
+10,2025,İşletme/Yönetim,Ekran Tabanlı Sim.,Ekip Çalışması/İletişim,0.35,Bilişsel yük nedeniyle iletişim becerileri üzerindeki etkisi sınırlı kaldı.
